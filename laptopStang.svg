@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="244mm"
+   height="297mm"
+   viewBox="0 0 244 297"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sa.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="2703.9583"
+     inkscape:cy="-598.75517"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Debout, ordinateur de giron!</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="90.689049"
+     y="147.40604"
+     id="legal"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3388"
+       x="90.689049"
+       y="147.40604"
+       style="font-size:4.23333359px;fill:#ff0000" /><tspan
+       sodipodi:role="line"
+       x="90.689049"
+       y="152.69769"
+       style="font-size:4.23333359px;fill:#ff0000"
+       id="tspan3390">Copyright (c) 2015 Piolat/Istria</tspan><tspan
+       sodipodi:role="line"
+       x="90.689049"
+       y="157.98938"
+       style="font-size:4.23333359px;fill:#ff0000"
+       id="tspan3392">License CC0 - &quot;No rights reserved&quot;</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="123.25665"
+     y="130.968"
+     id="comments"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3404"
+       x="77.290459"
+       y="130.968"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;text-anchor:middle;text-align:center">Comments in Red</tspan><tspan
+       sodipodi:role="line"
+       x="77.290459"
+       y="138.9055"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;text-anchor:middle;text-align:center"
+       id="tspan4216">Do not cut on red content</tspan></text>
+  <g
+     id="Part1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="88.555298"
+       y="292.01096"
+       id="text3423"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3425"
+         x="88.555298"
+         y="292.01096"
+         style="fill:#ff0000">Part1</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.5,0 0,297 3,0 0,-297 -3,0"
+       id="guideFente"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="main"
+       d="m 60,0 -60,0 0,297 180,0 0,-60 -30,20"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="courbe"
+       d="m 60,0 c -0.302509,109.15111 30.09564,194.50921 90,257"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.5,147 0,150 3,0 0,-150 -3,0"
+       id="path3369"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 28.5,0 0,147 3,0 0,-147 -3,0"
+       id="path3371"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:3.52777791px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="16.557711"
+     y="209.02864"
+     id="text4212"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4214"
+       x="16.557711"
+       y="209.02864">Width = thikness of material</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-4.3654032"
+     y="310.40802"
+     id="text4279"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4281"
+       x="-4.3654032"
+       y="310.40802">Edition tips:</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="324.51913"
+       id="tspan3373">* Edited with Inkscape and XML editor.</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="338.63025"
+       id="tspan3375">** Always verify and fix Inkscape values for x/y with XML</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="352.74136"
+       id="tspan4283">* Delete Part2 Work only on Part1, then derive Part2 from part 1</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="366.85248"
+       id="tspan4289">** Part2 is 180deg rotation or mirror of Part1</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="380.96356"
+       id="tspan4291">** Part2 has fenteHante in black and fenteBasse in black</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="395.07468"
+       id="tspan3401" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="409.18579"
+       id="tspan4297">Meterial:</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="423.29691"
+       id="tspan3407">* Tested and working: 3mm wood</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="437.40802"
+       id="tspan3409">* Tested and failing: cardboard</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="451.51913"
+       id="tspan3411" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="465.63025"
+       id="tspan3413">Preparation:</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="479.74136"
+       id="tspan3417">* Depending on the piece of material you have, you can arrange Part1 and Part2 as you prefer</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="493.85248"
+       id="tspan3421">* The most economic (wasting less material) seems to be keeping same orientation as designed here, but with Part2 a bit higher, aligned on the left border of Part1</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="507.96356"
+       id="tspan3405" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="522.07471"
+       id="tspan4293">Printing tips (for Laser Cutter Printer):</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="536.18579"
+       id="tspan4295">* Comments are in red: do not print or saw red elements</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="550.29694"
+       id="tspan4285">* On Part1, make sure &quot;fenteHaute&quot; is black and &quot;fenteBasse&quot; is red</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="564.40802"
+       id="tspan4287">* On Part2, make sure &quot;fenteBasse&quot; is black and &quot;fenteHaute&quot; is red</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="578.5191"
+       id="tspan3389" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="592.63025"
+       id="tspan3391">DIYing tips (with jigsaw):</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="606.74133"
+       id="tspan3393">* Print that on paper and report it to your piece of material</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="620.85248"
+       id="tspan3395">* Follow black lines only</tspan><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="634.96356"
+       id="tspan3397" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="649.07471"
+       id="tspan3387" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="663.18579"
+       id="tspan3385" /><tspan
+       sodipodi:role="line"
+       x="-4.3654032"
+       y="677.29694"
+       id="tspan3381" /></text>
+  <g
+     id="Part2"
+     transform="matrix(-1,0,0,-1,244.23378,297)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80.759926"
+       y="294.81729"
+       id="text3429"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3431"
+         x="80.759926"
+         y="294.81729">Part2</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3359"
+       d="m 28.5,0 0,297 3,0 0,-297 -3,0"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60,0 -60,0 0,297 180,0 0,-60 -30,20"
+       id="path3361"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60,0 c -0.302509,109.15111 30.09564,194.50921 90,257"
+       id="path3363"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="fenteBasse"
+       d="m 28.5,147 0,150 3,0 0,-150 -3,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="fenteHaute"
+       d="m 28.5,0 0,147 3,0 0,-147 -3,0"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="64.233772"
+     y="407.07053"
+     id="text3377"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3379"
+       x="64.233772"
+       y="407.07053"> </tspan></text>
+</svg>
